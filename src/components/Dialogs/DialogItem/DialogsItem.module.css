@@ -1,0 +1,12 @@
+ .dialog {
+    padding: 20px;
+    padding: 20px;
+    border: 2px solid rgb(173, 178, 247);
+    
+    
+}
+
+.dialog .linkDialog{
+    text-decoration: none;
+    color: rgb(246, 249, 252);
+}
