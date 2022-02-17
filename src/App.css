@@ -8,13 +8,14 @@
 
   grid-template-rows: 60px 1fr;
   grid-template-columns: 2fr 10fr;
-    grid-gap: 10px;
-
+  grid-gap: 10px;
+  background-image: url(./ImageBG/pngegg\ \(8\).png);
+  background-position: auto;
 }
 
 .app-wrapper-content{
   grid-area: c;
-  background-color: rgb(127, 135, 211);
+  background-color: rgba(127, 135, 211, 0);
 
 }
 
