@@ -1,7 +1,6 @@
  .dialog {
-    padding: 20px;
-    border: 2px solid rgb(173, 178, 247);
-    margin-top: 5px;
+    padding: 53px 0;
+    margin-bottom: 10px;
    
 }
 
@@ -10,11 +9,4 @@
     color: rgb(15, 16, 17);
 
 }
-.dialog img {
-    padding: 20px;
-    margin: 20px;
-    width: 140px;
-    border-radius: 70%;
-    justify-content: start;
-  
-  }
+
